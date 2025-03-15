@@ -1,0 +1,4 @@
+{
+    "version": "1.0.5",
+    "news": "ox_inventory support for QBCore now available!\nFixed the code for not exiting the vehicle after player death!\nFixed spawning your character at vector3(0,0,0,0) when you exit the vehicle"
+}
